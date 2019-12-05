@@ -1,0 +1,1 @@
+This file contains My_Blogs web app using php.
